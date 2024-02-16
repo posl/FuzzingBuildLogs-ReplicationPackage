@@ -17,7 +17,7 @@
 2. If only a single error can be identified and is clearly described by the error message then label accordingly.
 3. If multiple errors are shown in the build log, label according to the first error triggered during the build process
 4. If the annotators cannot understand the error messages or cannot figure out the root cause of failures
-    5. The authors must look online for the error messages using resources such as stackoverflow, the official OSS-Fuzz GitHub repository and the project's repository
-    6. If there is still uncertainty after looking online, the authors must label as "Label as not information"
+5. The authors must look online for the error messages using resources such as stackoverflow, the official OSS-Fuzz GitHub repository and the project's repository
+6. If there is still uncertainty after looking online, the authors must label as "Label as not information"
 
 At the end of the labeling process, similar labels were merged together based on the root cause that caused the failures.
