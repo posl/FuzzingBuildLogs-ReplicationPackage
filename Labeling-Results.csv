@@ -1,4 +1,4 @@
-Project,Label
+Project,Label,URL
 gcp-python-cloud-storage,Corpus related issues,https://oss-fuzz-build-logs.storage.googleapis.com/log-349a5b80-51e3-4852-ae84-cee5718acc40.txt
 gdal,Command and argument related issues,https://oss-fuzz-build-logs.storage.googleapis.com/log-e073b8c2-026e-4c16-ad11-4df254a16c7a.txt
 giflib,Corpus related issues,https://oss-fuzz-build-logs.storage.googleapis.com/log-721ef89f-d388-4567-917e-0591adb1f418.txt
